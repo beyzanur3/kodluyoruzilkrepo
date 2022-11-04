@@ -8,7 +8,7 @@ Kodluyoruz MÜ Eğitimi Git konusu kapsamında açtığım ilk repo
 ## Installation
 
 '''
-git clone https://github.com/beyzanur3/kodluyoruzilkrepo.git
+print(git clone https://github.com/beyzanur3/kodluyoruzilkrepo.git)
 '''
 
 ## Usage
